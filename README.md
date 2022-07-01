@@ -1,11 +1,11 @@
 <div id="top"></div>
 
 <br />
-<div align="center">
+<div>
  
 <h3 align="center">Smoothies builder</h3>
 
-  <p align="center">
+  <p>
     Criador de smoothies:
     <br />
   </p>
@@ -17,6 +17,10 @@
 1- Requerimentos:  Java instalado (Jdk 11).<br>
 2- Clonar o repositório na pasta desejada.<br>
 3- Acessar a pasta clonada e executar no terminal:
+
+  ```sh
+  chmod +x gradlew
+  ```
   ```sh
   ./gradlew bootRun
   ```
